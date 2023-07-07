@@ -1,0 +1,8 @@
+a + b c, a, b, bc, ad
+a * (b+epsilon), aab, ba, b, abb, a, c
+(a+ b)*abb, aabb, abbbabb, abbb, ab, acbabb
+a+b*abb, a, bbbabb, abbb, abb, abaabb, abcabb
+a*(b+c)*(de)*f, f, af, bf, cf, def, aaaaaf, bbbbbf, ccccccf, bbbccccf, bbccbcbcbbbf, dededededef, df
+1*(b+c)*(de)*F, ed, 1, P, 1F, f, 1bF, 1cF, 1bccbF, 1deF, 1dF, 1dedeF
+abcd, abcd, a, b, c, d,ad,e
+a+b+c+d+(e+fg), abcd, a, b, c, d,ad,e,f,g,fg
